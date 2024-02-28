@@ -1,0 +1,167 @@
+.bid-view-datails {
+     display: flex;
+     justify-content: space-between;
+     background-color: rgba(10, 169, 232, 0.2);
+     margin: 10px;
+     padding: 15px;
+     border-radius: 10px;
+   }
+   
+   .start-container {
+     display: flex;
+     flex-direction: column;
+   }
+   
+   .bid-nu-container {
+     display: flex;
+     align-items: center;
+     margin-bottom: 20px;
+   }
+   
+   .bid-nu-title {
+     font-weight: bolder;
+     font-size: 20px;
+   }
+   
+   .bid-nu {
+     font-weight: 500;
+     margin-right: 10px;
+   }
+   
+   .bid-name {
+     color: rgb(157, 156, 156);
+   }
+   
+   .start-container-contents {
+     display: flex;
+     gap: 10px;
+   }
+   
+   .location-cotainer {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+   }
+   
+   .green-loaction {
+     width: 20px;
+     height: 20px;
+     background-color: lightgreen;
+     border-radius: 50%;
+   }
+   
+   .vartical-line {
+     border-left: 3px dotted silver;
+     height: 70px;
+     /* margin-left: 8px; */
+   }
+   
+   .location-icon-red {
+     color: red;
+     font-size: 30px;
+   }
+   
+   .location-deatails-container {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+   }
+   
+   .lacation-to-container,
+   .loaction-from-container {
+     display: flex;
+     flex-direction: column;
+     gap: 5px;
+   }
+   
+   .lacation-to,
+   .lacation-from {
+     color: rgb(4, 4, 131);
+     font-weight: 600;
+     font-size: 20px;
+   }
+   
+   .lacation-to-city,
+   .lacation-from-city {
+     color: rgb(162, 160, 160);
+     font-weight: 500;
+   }
+   
+   .loading-container,
+   .lading-container {
+     display: flex;
+     justify-content: center;
+     gap: 10px;
+   }
+   
+   .loading-point {
+     color: rgb(5, 144, 5);
+     font-weight: 700;
+   }
+   
+   .loading-point-loaction,
+   .unloading-point-loaction {
+     font-weight: 500;
+     color: rgb(144, 136, 136);
+   }
+   
+   .unloading-point {
+     color: red;
+     font-weight: 700;
+   }
+   
+   .middle-container {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+   }
+   .vehical-data-container {
+     display: flex;
+     gap: 10px;
+   }
+   
+   .vehical-date-container {
+     font-size: 20px;
+     font-weight: 700;
+   }
+   
+   .dark-blue {
+     color: rgb(4, 4, 131);
+     font-weight: 500;
+     font-size: 15px;
+   }
+   
+   .light-blue {
+     color: rgb(41, 170, 250);
+   }
+   
+   .cng {
+     color: #fff;
+     background-color: rgb(2, 122, 2);
+     width: 60px;
+     padding: 2px 0;
+     height: 25px;
+     text-align: center;
+     margin-left: 20px;
+     border-radius: 5px;
+   }
+   
+   .requst-expiry-date-container {
+     display: flex;
+     gap: 30px;
+   }
+   
+   .end-container {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+   }
+   
+   .end-container-contents {
+     display: flex;
+     gap: 10px;
+     color: rgb(4, 4, 131);
+     font-weight: 500;
+     font-size: 15px;
+   }
+   

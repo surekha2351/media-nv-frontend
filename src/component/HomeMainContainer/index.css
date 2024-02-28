@@ -1,0 +1,107 @@
+.home-middle-content-container {
+     margin: 10px 10px 30px 35px;
+     margin-top: -20px;
+   }
+   
+   .home-middle-content-nav {
+     display: flex;
+     justify-content: space-between;
+     gap: 10px;
+     padding: 15px 20px 20px 20px;
+     height: 10vh;
+     background-color: rgb(4, 4, 151);
+     color: #c6c6c6;
+     border-top-left-radius: 10px;
+     border-top-right-radius: 10px;
+     overflow-y: auto;
+   }
+   
+   .home-middle-details-container {
+     padding: 15px 20px 20px 20px;
+     background-color: #fff;
+   }
+   
+   .home-middle-details {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     font-weight: 600;
+     /* height: 100vh; */
+   }
+   
+   .home-middle-details-left-container {
+     display: flex;
+     gap: 60px;
+   }
+   
+   .number-container {
+     display: flex;
+     gap: 10px;
+     align-items: center;
+   }
+   
+   .green-ball {
+     height: 15px;
+     width: 15px;
+     background-color: green;
+     border-radius: 50%;
+   }
+   
+   .bid-number-container {
+     font-size: 15px;
+     text-align: center;
+     display: flex;
+     flex-direction: column;
+     gap: 5px;
+     margin-left: -30px;
+   }
+   
+   .color-sliver {
+     color: lightslategray;
+     font-size: 15px;
+   }
+   
+   .city-container {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+   }
+   
+   .home-middle-details-right {
+     display: flex;
+     /* gap: 50px; */
+     align-items: center;
+   }
+   
+   .weight {
+     margin-right: 100px;
+   }
+   
+   .results {
+     margin-right: 30px;
+     text-align: center;
+   }
+   
+   .staff {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     font-size: 15px;
+     margin-right: 30px;
+   }
+   
+   .staff-color-sliver {
+     color: lightslategray;
+   }
+   
+   .view-details {
+     color: rgb(4, 4, 128);
+   }
+   
+   .hr-line {
+     margin: 35px 0;
+     background-color: lightslategray;
+   }
+   .bid-middle-conteomer{
+    display: flex;
+   }
