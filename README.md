@@ -1,4 +1,4 @@
-![image](https://github.com/surekha2351/media-nv-frontend/assets/121850070/4294c325-ebcb-453b-ba76-72ef81d0df02)Media NV(Front end)_Assignment:
+Media NV(Front end)_Assignment:
 > npx create-react-app |
 > npm start |
 > react-dom |
